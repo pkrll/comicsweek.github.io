@@ -1,1 +1,1 @@
-# comicsweek.github.io
+# ComicsWeek
